@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./macciiplauticom00naudgoog_0008.png"; bbox 0 0 3067 5017; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 461 1720 2364 2320">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 461 1720 2364 2320">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 1720 2364 1943; baseline 0.001 -48"><span class='ocrx_word' id='word_1_1' title='bbox 461 1720 674 1897; x_wconf 83' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 763 1739 1401 1943; x_wconf 79' lang='lat' dir='ltr'><strong>Accu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1507 1742 2364 1897; x_wconf 83' lang='lat' dir='ltr'><strong>PLAUTI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 689 2068 2159 2320; baseline 0 -67"><span class='ocrx_word' id='word_1_4' title='bbox 689 2068 2159 2320; x_wconf 82' lang='lat' dir='ltr'>COMOEDIAE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
